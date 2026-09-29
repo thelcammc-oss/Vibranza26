@@ -71,20 +71,20 @@ const rules=[
 const eventRules={
 "Group Dance (Western & Classical)":["Theme: Dance Through the Decades – 70s → 80s → 90s → 2000s → Modern Era 2K26","5–10 participants","Maximum 5 minutes","Maximum 4 songs","Audio must be submitted in MP3 by 30.09.2026."],
 "Solo Dance":["Theme: Seasons of Life","Individual event","Maximum 4 minutes","Caution bell at 3:45."],
-"Meet the Beat (Fusion Dance)":["Theme: On-the-Spot Musical Fusion","4–8 participants","Maximum 3 minutes","Music is played on the spot."],
+
 "Solo Song":["Theme: Colours of Life","Individual event","Maximum 5 minutes","Tamil / English / Malayalam."],
 "Group Song":["Theme: Voices in Harmony","5–10 participants","Maximum 3 minutes","No karaoke; only one song."],
 "Music Rap (Online)":["Theme: Our Voice, Our Vibe","1–5 participants","3–5 minutes","Original lyrics."],
 "Mr. / Ms. Vibranza":["Theme: Beyond the Crown","4 rounds: Introduction, Talent, Walk and Q&A."],
 "Mime":["Theme: The Invisible Weight","5–10 participants","Maximum 5 minutes","Only music; no spoken dialogue."],
-"Elocution: The Orator's Forum":["Theme: Humanity in the Tech World","Individual","Maximum 3 minutes","English / Tamil / Malayalam."],
+
 "Turn the Coat":["Theme: The Other Side of the Argument","Individual","2 minutes total","1 minute FOR and 1 minute AGAINST."],
 "Social Walk":["Theme: Walk the Change – The World We Want Tomorrow","5–10 participants","Maximum 5 minutes","Music is compulsory."],
 "Doodle Art":["Theme: A Sustainable Tomorrow","Individual","45 minutes."],
 "Mehendi Art":["Theme: Nature in Patterns","Artist + Model","1 hour 15 minutes."],
 "Face Painting":["Theme: Faces of Nature","Artist + Model","1 hour."],
-"Vegetable Carving":["Theme: Nature Takes Shape","Individual","60 minutes."],
-"Rangoli (Group)":["Theme: Colours of Unity","5–10 participants","45 minutes."],
+
+
 "Flameless Cooking":["Theme: A World on a Plate","2 participants","60 minutes.","No fire or heat."],
 "Mannequin Challenge (Online)":["Theme: Freeze Your Favourite College Moment","5–15 participants","2–3 minutes."],
 "Reel Competition (Online)":["Theme: My College, My Pride","1–5 participants","Maximum 60 seconds."],
