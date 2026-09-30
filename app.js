@@ -1,7 +1,7 @@
-const GOOGLE_FORM_URLS={red:"https://forms.gle/wdndaLipoSDdkkjR9",
-    yellow:"https://forms.gle/wdndaLipoSDdkkjR9",
-    green:"https://forms.gle/wdndaLipoSDdkkjR9",
-    blue:"https://forms.gle/wdndaLipoSDdkkjR9"};
+const GOOGLE_FORM_URLS={red:"https://docs.google.com/forms/d/e/1FAIpQLSfZP4jcn2FzDrYU0ONTtVjjTx12TQAc2dhW8xDjSXxhEQj6IQ/viewform?usp=header",
+    yellow:"https://docs.google.com/forms/d/e/1FAIpQLSfgeBuJglGOjrsQc5fStNsBQna8hcj-tPbYpUZkpxdEKLCvfQ/viewform?usp=dialog ",
+    green:"https://docs.google.com/forms/d/e/1FAIpQLSdYiAcUFqYLTmPQISuFo0fiVWyL8eQlgkON9Z7E8H9ynA3nCA/viewform?usp=header",
+    blue:"https://docs.google.com/forms/d/e/1FAIpQLSf3MXgYRo39cKfoVWPyKIiEYSu90bNuBjjXmXK748We79DkOg/viewform?usp=header"};
 
 const houses={
 red:{name:"RED HOUSE",color:"#d9343b",motto:"Courage Creates Change",departments:["B.COM GEN","BCA","PHY","PSY","MATHS","Social Work","AI","CS","M.Sc Maths"],animators:["Mr.M.Ramachandrapandiyan","Ms.R.Sagunthala Devi","Ms. Asiya Parveen"]},
